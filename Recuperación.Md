@@ -1,4 +1,4 @@
-# Archivo 2: Posibles formas de recuperación
+# : Posibles formas de recuperación
 
 Este documento expone las formas más comunes —y muchas veces frustrantes— de intentar recuperar el acceso a tus criptomonedas cuando estás atrapado. Nada es fácil, nada es gratis, y casi todo está diseñado para que pagues por cada intento.
 
@@ -43,9 +43,3 @@ Este documento expone las formas más comunes —y muchas veces frustrantes— d
 - Cobran caro y no garantizan resultados.
 - Algunas son legítimas, otras son estafas disfrazadas de servicio técnico.
 
----
-
-## 🧨 Realidad incómoda
-
-- Cada intento de recuperación cuesta gas.
-- La información útil está fragment

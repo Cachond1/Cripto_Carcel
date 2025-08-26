@@ -1,3 +1,4 @@
+
 # Archivo 3: Casos reales + Propuesta de red de ayuda
 
 Este archivo expone historias reales de personas atrapadas en sus propios activos digitales. También plantea una solución: crear una red de ayuda gratuita, transparente y descentralizada para quienes han sido abandonados por el sistema cripto.

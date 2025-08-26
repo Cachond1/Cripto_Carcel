@@ -1,0 +1,57 @@
+# Archivo 2: Posibles formas de recuperación
+
+Este documento expone las formas más comunes —y muchas veces frustrantes— de intentar recuperar el acceso a tus criptomonedas cuando estás atrapado. Nada es fácil, nada es gratis, y casi todo está diseñado para que pagues por cada intento.
+
+---
+
+## 🛠️ Formas de recuperación (con advertencias)
+
+> ⚠️ Ninguna garantiza éxito. Todas requieren tiempo, conocimiento técnico o dinero. Ethereum no fue diseñado para ayudarte, sino para protegerse de ti.
+
+### 1. Herramientas de recuperación de frases
+- Software que intenta reconstruir frases semilla perdidas.
+- Requiere pistas parciales, tiempo y suerte.
+- Riesgo alto de estafa si usas servicios no verificados.
+
+### 2. Contactar al soporte (si existe)
+- Algunas plataformas centralizadas ofrecen soporte técnico.
+- La mayoría cobra por ayudarte o simplemente ignora tu caso.
+- No esperes empatía: esperan que pagues por cada minuto de atención.
+
+### 3. Wallets con recuperación social
+- Ejemplo: Argent permite recuperar acceso con ayuda de “guardianes”.
+- Dependes de terceros para validar tu identidad.
+- No es común en wallets tradicionales.
+
+### 4. Foros especializados
+- Reddit, Discord, GitHub: lugares donde puedes pedir ayuda.
+- La mayoría de las respuestas son técnicas, incompletas o te mandan a pagar por asesoría.
+- También hay estafadores disfrazados de “expertos”.
+
+### 5. Reconstrucción de claves con pistas parciales
+- Si recuerdas parte de tu frase semilla, puedes intentar reconstruirla.
+- Hay scripts y herramientas para esto, pero requieren conocimientos técnicos.
+- No apto para principiantes.
+
+### 6. Acciones legales
+- Solo aplicable si tus fondos estaban en plataformas con custodia legal.
+- Costoso, lento y con pocas probabilidades de éxito.
+- En el mundo cripto, “no hay nadie a quien demandar”.
+
+### 7. Pagar por ayuda profesional
+- Hay empresas que ofrecen recuperación de wallets.
+- Cobran caro y no garantizan resultados.
+- Algunas son legítimas, otras son estafas disfrazadas de servicio técnico.
+
+---
+
+## 🧨 Realidad incómoda
+
+- Cada intento de recuperación cuesta gas.
+- La información útil está fragmentada y no es gratuita.
+- No hay ninguna compañía que te ayude sin cobrar.
+- Ethereum no fue diseñado para la accesibilidad, sino para la permanencia.
+
+---
+
+Este archivo forma parte del repositorio **CryptoCárcel**, una denuncia abierta al sistema cripto que atrapa a sus propios usuarios. Si tú también estás atrapado, comparte tu historia. Si tienes soluciones, súmate. Si quieres cambiar esto, propongamos algo mejor.
